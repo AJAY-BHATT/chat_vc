@@ -24,7 +24,9 @@ const App = () => {
   
 
   return (
-    <div className='h-min-screen' data-theme={theme}>      
+    
+    <div className='h-min-screen' data-theme={theme}>   
+    <h1>ajay bbbbbbbbbbbb</h1>   
       <Routes>
         <Route 
         path="/"
